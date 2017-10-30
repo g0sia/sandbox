@@ -13,9 +13,13 @@ body {
   text-transform: uppercase;
 }
 
+.button:hover {
+  background-color: #90A4AE;
+}
+
 .green {
-  background-color: #AED581;
-  border: 1px solid #AED581;
+  background-color: #7CB342;
+  border: 1px solid #7CB342;
 }
 
 .red {
